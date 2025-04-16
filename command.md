@@ -1,0 +1,1 @@
+javac -cp lib/junit-platform-console-standalone-1.11.4.jar src/*.java && java -jar lib/junit-platform-console-standalone-1.11.4.jar -cp src --scan-classpath
